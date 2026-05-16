@@ -3,7 +3,7 @@
   "wake_word": "dis nestor",
   "author": "mickaelsainsard",
   "website": "",
-  "model": "https://raw.githubusercontent.com/mickaelsainsard/mes-wake-words/main/stream_state_internal_quant.tflite",
+  "model": "stream_state_internal_quant.tflite",
   "trained_languages": ["fr"],
   "version": 2,
   "micro": {
