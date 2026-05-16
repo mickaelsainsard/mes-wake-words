@@ -3,7 +3,7 @@
   "wake_word": "dis nestor",
   "author": "mickaelsainsard",
   "website": "",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "https://raw.githubusercontent.com/mickaelsainsard/mes-wake-words/main/stream_state_internal_quant.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.75,
